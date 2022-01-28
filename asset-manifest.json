@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/wallpapers/static/css/main.fedc34a6.css",
+    "main.js": "/wallpapers/static/js/main.e3173fec.js",
+    "static/js/787.1513fb98.chunk.js": "/wallpapers/static/js/787.1513fb98.chunk.js",
+    "index.html": "/wallpapers/index.html",
+    "main.fedc34a6.css.map": "/wallpapers/static/css/main.fedc34a6.css.map",
+    "main.e3173fec.js.map": "/wallpapers/static/js/main.e3173fec.js.map",
+    "787.1513fb98.chunk.js.map": "/wallpapers/static/js/787.1513fb98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fedc34a6.css",
+    "static/js/main.e3173fec.js"
+  ]
+}
