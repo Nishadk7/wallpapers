@@ -45,7 +45,7 @@ const Post = () =>  {
 
   image.map(n => {
     
-    slides.push(<SwiperSlide><div className="center"> <button className="footer">Hello</button><img src={n}alt="" width="80" height="45"></img></div></SwiperSlide>)
+    slides.push(<SwiperSlide><div className="center"> <img src={n}alt="" width="80" height="45"></img></div></SwiperSlide>)
     }
   )
   return (
