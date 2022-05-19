@@ -52,16 +52,10 @@ return (
 	<AppBar style={{ background: '	#1b1818	' }} position="sticky">
 		<Toolbar >
 		<Typography  >
-			WALLPAPERS  
+			WALLPAPERS - the top voted wallpapers of the week from r/Wallpapers
 		</Typography>
 
-	  <Tooltip title="1. Right-Click and copy image URL
-						2. Open URL in new tab and then save image">
-			<IconButton color = 'secondary'aria-label="delete"  style={{ color: 'DodgerBlue' }}  >    
-				<DownloadIcon />    
-				</IconButton>	
 
-	  </Tooltip>
 	  
 		</Toolbar>
 	</AppBar>

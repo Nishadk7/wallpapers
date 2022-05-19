@@ -15,3 +15,10 @@
         height: 40px;
         background: grey;
     }
+
+      #bottom {
+        position: absolute;
+        bottom: 0;
+        width: 100%;
+        color: #ffffff;
+        padding: 15px 0;}

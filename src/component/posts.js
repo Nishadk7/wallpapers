@@ -45,7 +45,8 @@ const Post = () =>  {
 
   image.map(n => {
     
-    slides.push(<SwiperSlide><div className="center"> <img src={n}alt="" width="80" height="45"></img></div></SwiperSlide>)
+    slides.push(<SwiperSlide><div className="center"> <img src={n}alt="" width="80" height="45"></img>
+</div><a id = "bottom" href={n} download>download</a></SwiperSlide>)
     }
   )
   return (
@@ -62,7 +63,8 @@ const Post = () =>  {
 
   );
 }
-export default Post;
 
+
+export default Post;
 
 
